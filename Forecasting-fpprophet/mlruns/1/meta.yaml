@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Denil/OneDrive/%C3%81rea%20de%20Trabalho/Forecasting/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: pvc_forecast
